@@ -1,0 +1,2 @@
+Patient ID, Appointment Location, Preffered Doctor, Preffered Appointment Date, Preffered Time Slot, Message, Status
+P001, Hospital Pantai Ipoh,Dr. Fakhrul Mohamad Farhan,31/08/2020,2.00pm - 5.00pm,None,PENDING

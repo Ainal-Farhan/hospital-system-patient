@@ -1,0 +1,8 @@
+Doctor ID, Firstname, Lastname, Gender,NRIC,Location,Expertise
+D001,Marzuki,Johar,male,690121026432,Ampang,Sport Medicine
+D002,Zaleha,Zakaria,female,781112126652,Ayer Keroh,Sport Medicine
+D003,Masyitah,Ismail,female,680311048273,Batu Pahat,Cardiology
+D004,Zainal Abidin,Najib,male,891106064532,Cheras,Cardiology
+D005,Fakhrul,Mohamad Farhan,male,910211063721,Ipoh,Dentistry
+D006,Haziq Danial,Azman,male,920121063821,Klang,Dentistry
+D007,Ain,Yaakob,female,930606062132,Klang,Dermatology

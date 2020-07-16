@@ -1,0 +1,6 @@
+Patient ID, Firstname, LastName, Date of birth, IC last 4 digits, email, email Provider, phone no, gender, state of birth
+P001,Ain Farhanim,Mohamad Johari,921112,9641,ainFarhanim93,gmail.com,1122111855,female,06
+P002,Ain Farhazrin,Mohamad Johari,961211,9642,angah123,gmail.com,126958423,female,06
+P003,Amir Farhan,Zahir,030609,9514,amirfarhan12,yahoo.com,123698547,male,08
+P004,Ahmad Syahir,Zakir,990324,3654,syahir123,gmail.com,1196589655,male,06
+P005,Nur Syazwani,Zafran,980712,3245,Syazwani123,yahoo.com,1199645252,male,05
